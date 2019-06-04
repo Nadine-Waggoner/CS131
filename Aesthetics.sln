@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Aesthetics", "Aesthetics\Aesthetics.vcxproj", "{CC832260-929A-4B2F-BB55-3C2F58E24C14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC832260-929A-4B2F-BB55-3C2F58E24C14}.Debug|x64.ActiveCfg = Debug|x64
+		{CC832260-929A-4B2F-BB55-3C2F58E24C14}.Debug|x64.Build.0 = Debug|x64
+		{CC832260-929A-4B2F-BB55-3C2F58E24C14}.Debug|x86.ActiveCfg = Debug|Win32
+		{CC832260-929A-4B2F-BB55-3C2F58E24C14}.Debug|x86.Build.0 = Debug|Win32
+		{CC832260-929A-4B2F-BB55-3C2F58E24C14}.Release|x64.ActiveCfg = Release|x64
+		{CC832260-929A-4B2F-BB55-3C2F58E24C14}.Release|x64.Build.0 = Release|x64
+		{CC832260-929A-4B2F-BB55-3C2F58E24C14}.Release|x86.ActiveCfg = Release|Win32
+		{CC832260-929A-4B2F-BB55-3C2F58E24C14}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F02873C8-4409-47D9-826E-1AA23EEF308B}
+	EndGlobalSection
+EndGlobal
